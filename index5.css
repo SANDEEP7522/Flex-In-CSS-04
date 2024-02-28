@@ -1,0 +1,197 @@
+*{
+     margin: 0;
+    padding: 0;
+}
+.full-container{
+    display: grid;
+    grid-template-areas: "X X";
+    grid-template-rows: repeat(10px 1fr);
+}
+.information{
+    border: 2px solid #000;
+}
+.trainimg{
+    border: 2px solid #000;
+    }
+
+ .IndianRailways{
+    background-color: #fff;
+    
+
+}
+.uper1{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.railways{
+    height: 101%;
+    width: 398px;
+}
+.img1{
+    height: 50px;
+    width: 50px;
+    display: inline;
+
+}
+.IRCTC{
+    height: 44px;
+    width: 65px;
+}
+.indian{
+    height: 41px;
+    width: 42px;
+
+}
+.ask{
+    margin-left: 43px;
+    font-size: x-small;
+    display: inline-block;
+    position: relative;
+}
+h2{
+    margin-top: 40px;
+    margin-left: 47px;
+}
+.login{
+    font-size: 10px;
+    border-radius: 3px;
+    height: 19px;
+    color: #fff;
+    line-height: 14px;
+    background-color: orange;
+}
+.register{
+    font-size: 10px;
+    border-radius: 3px;
+    height: 19px;
+    
+    line-height: 14px;
+
+}
+.agent{
+    font-size: 10px;
+    border-radius: 3px;
+    height: 19px;
+  
+    line-height: 14px;
+    
+}
+.safety{
+    margin-left: 40px; 
+    display: inline-flex;
+}
+.green1{
+ color: rgb(66, 240, 66);
+ margin: 8px;
+
+}
+.orange1{
+    margin: 8px;
+    color: orange;}
+    .blue1{
+        margin: 8px;
+    }
+    .button1{
+        margin-left: 40px;
+        margin-top: 7px;
+    }
+    .book{
+        margin: 5px;
+        font-size: x-small;
+        background-color: rgb(28, 28, 124);
+        color: white;
+    }
+    .pnr{
+        margin: 5px;
+        font-size: x-small;
+    }
+    .charts{
+         margin: 5px;
+        font-size: x-small;
+    }
+.show1{
+      border: 1px solid black;
+    font-family: monospace;
+    display: inline-flex;
+    background-color: white;
+    height: 62px;
+    width: 357px;
+    margin-left: 30px;
+    border-radius: 3px;
+    font-size: medium;
+}
+
+.form{
+    margin-top: 7px;
+    margin-left: 30px;
+    line-height: 0px;
+    word-spacing: 0px;
+    font-size: 8px;
+}
+
+.to{
+    margin-top: 7px;
+    margin-left: 75px;
+    line-height: 0px;
+    word-spacing: 0px;
+    font-size: 8px;
+}
+i.fa-solid.fa-train-subway {
+    margin-left: -16px;
+}
+.ksr{
+    margin-top: 8px;
+
+}
+
+.direction{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.train{
+    margin-left: -18px;
+    margin: 0px;
+}
+.show2{
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 30px;
+    border: 1px solid black;
+    background-color: white;
+    height: 62px;
+    width: 357px;
+    font-family: monospace;
+    display: inline-flex;
+    font-size: medium;
+}
+.form1{
+    margin-top: 7px;
+    margin-left: 30px;
+    line-height: 13px;
+    word-spacing: 0px;
+    font-size: 8px;
+}
+.direction1{
+    margin-left: 46px;
+    line-height: 14px;
+    margin-top: 8px;
+    font-size: 9px;
+}
+
+.to1{
+    margin-top: 7px;
+    margin-left: 75px;
+    line-height: 13px;
+    word-spacing: 0px;
+    font-size: 8px;
+}
+.search{
+  background-color: rgb(26, 200, 26);
+    border: 2px solid black;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+    width: 300px;
+    margin-top: 15px;
+    margin-left: 46px;
+} 

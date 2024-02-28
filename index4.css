@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  padding-top: 1px;
+  margin-top: 0px;
+  height: 320px;
+  width: 637px;
+  background-color: #f4f2fe;
+  margin-top: 28px;
+  margin-left: 25px;
+  border: 3px solid;
+  border-radius: 5px;
+}
+.free{
+  box-shadow: 5px 10px 18px #888888;
+  background-color: #fff;
+  height: 260px;
+  width: 165px;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  display: inline-grid;
+  border-radius: 7px;
+}
+.chek{
+  font-size: medium;
+  margin: 0px;
+  padding: 0px;
+}
+button{
+  background-color: rgb(14, 4, 48);
+  border-radius: 19px;
+  height: 30px;
+  width: 113px;
+  margin-bottom: 7px;
+  color: white;
+  margin-left: 15px;
+}
+.freeplane{
+  font-family: cursive;
+ 
+}
+.personal{
+  font-family: monospace;
+
+}
+p{
+  m0
+}
+.doller{
+  font-family: cursive;
+
+}
+#nows{
+  background-color: #fff;
+  color: #000;
+}
+
+.basicplane{
+
+  background-color: rgb(14, 4, 48);
+  box-shadow: 5px 10px 18px #888888;
+  height: 262px;
+  width: 165px;
+  margin: 20px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: inline-grid;
+  border-radius: 7px;
+}
